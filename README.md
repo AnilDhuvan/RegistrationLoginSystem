@@ -21,5 +21,4 @@ A user-friendly registration and login system built using **Spring Boot**, **Spr
 - Session-based login status handling
 - Password encryption using BCrypt
 
-## 🏗 Project Structure
 
